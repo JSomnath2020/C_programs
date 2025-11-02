@@ -10,6 +10,5 @@
 6(a) Program to print roll number and names of 10 students using array
 6(b) Program to read a matrix of size m × n
 6(c) Sort array in ascending and descending order
-7(a) Display values and addresses using pointer
-7(b) Addition and subtraction using pointers
-
+7(a) Display values and addresses using pointer /n
+7(b) Addition and subtraction using pointers /n
